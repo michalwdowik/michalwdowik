@@ -31,8 +31,10 @@ After hours I love to develop my beat-making skills. I have been producing music
 <a href="http://discordapp.com/users/1032241524051804190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/1032241524051804190" height="30" width="40" /></a>
 </p>
 
- <p align="center"> <a href="https://www.codewars.com/users/michalwdowik" target="_blank" rel="noreferrer">
-  <img src="https://www.codewars.com/users/michalwdowik/badges/large" alt="codewars badge" width="40" height="40"/>
-</a></p>
+<!--  <p align="center"> <a href="https://www.codewars.com/users/michalwdowik" target="_blank" rel="noreferrer">
+  <img src="https://www.codewars.com/users/michalwdowik/badges/small" alt="codewars badge" width="40" height="40"/>
+</a></p> -->
+
+<p align="center"><a href="https://codewars.com/users/michalwdowik" target="blank"><img src="https://www.codewars.com/users/michalwdowik/badges/micro" alt="michalwdowik" /></a> </p>
 <p align="center"> <a href="https://twitter.com/michalwdowik" target="blank"><img src="https://img.shields.io/twitter/follow/michalwdowik?logo=twitter&style=for-the-badge" alt="michalwdowik" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=michalwdowik&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="michalwdowik" /></p>
