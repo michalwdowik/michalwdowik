@@ -9,13 +9,11 @@ The journey began with <b>Swift</b> and <b>Swift UI</b>, but I was discouraged b
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-
 <h3 align="center">Current status:</h3>
-<p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/ToDoApp">ToDoApp</a></p>
+<p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/ToDoApp">ToDoApp</a> and <a href="https://github.com/michalwdowik/Cinematly">Cinematly</a></p>
 <p align="center">⌛ Learning: TypeScript, Redux</p>
 
 
@@ -33,6 +31,8 @@ After hours I love to develop my beat-making skills. I have been producing music
 <a href="http://discordapp.com/users/1032241524051804190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/1032241524051804190" height="30" width="40" /></a>
 </p>
 
-
+ <p align="center"> <a href="https://www.codewars.com/users/michalwdowik" target="_blank" rel="noreferrer">
+  <img src="https://www.codewars.com/users/michalwdowik/badges/large" alt="codewars badge" width="40" height="40"/>
+</a></p>
 <p align="center"> <a href="https://twitter.com/michalwdowik" target="blank"><img src="https://img.shields.io/twitter/follow/michalwdowik?logo=twitter&style=for-the-badge" alt="michalwdowik" /></a> </p>
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=michalwdowik&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="michalwdowik" /></p>
