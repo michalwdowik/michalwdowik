@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate Frontend Dev</h3>
 <h5 align="center"><i>Warsaw, PL</i></h5>
-<p align="center"><a href="https://codewars.com/users/michalwdowik" target="blank"><img src="https://www.codewars.com/users/michalwdowik/badges/small" alt="michalwdowik" /></a> </p>
+<p align="center"><a href="https://codewars.com/users/michalwdowik" target="blank"><img src="https://www.codewars.com/users/michalwdowik/badges/micro" alt="michalwdowik" /></a> </p>
 <p align="center"> 
 In 2021, when I was maintaining an e-commerce shop and making basic tweaks to Shopify's templates, I dealt with <b>HTML</b> for the first time. I wouldn't say I liked it at first glance, but it sparked the idea of picking up programming. When I was finalizing my Master's degree, I realized that I wanted to learn something extra that would allow me to create an e-commerce shop/app from scratch on my own.
 The journey began with <b>Swift</b> and <b>Swift UI</b>, but I was discouraged by the small community of Polish programmers and the lack of job offers. Finally, additionally encouraged by the incoming Web 3.0 trend, I switched to <b>HTML/CSS/JS</b>. After a few months, I started messing around with <b>React</b> and <b>Tailwind</b>. I love the process of problem-solving in programming. I am currently looking for a job to be able to develop my skills in working in a team.
