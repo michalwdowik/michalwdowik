@@ -32,6 +32,6 @@ After hours I love to develop my beat-making skills. I have been producing music
 </p>
 
 
-<p align="center"><a href="https://codewars.com/users/michalwdowik" target="blank"><img src="https://www.codewars.com/users/michalwdowik/badges/large" alt="michalwdowik" /></a> </p>
+<p align="center"><a href="https://codewars.com/users/michalwdowik" target="blank"><img src="https://www.codewars.com/users/michalwdowik/badges/small" alt="michalwdowik" /></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=michalwdowik&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="michalwdowik" /></p>
