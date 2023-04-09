@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm </h1> 
 <p align="center"> <a href="https://codewars.com/users/michalwdowik" target="blank"><img src="https://www.codewars.com/users/michalwdowik/badges/large" alt="michalwdowik" /></a> </p>
-
-<h3 align="center">A passionate Frontend Dev</h3>
 <h5 align="center"><i>Warsaw, PL</i></h5>
 
 <p align="center"> 
