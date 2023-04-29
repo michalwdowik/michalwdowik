@@ -16,7 +16,7 @@ The journey began with <b>Swift</b> and <b>Swift UI</b>, but I was discouraged b
 </p>
 
 <h3 align="center">Current status:</h3>
-<p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/ToDoApp">ToDoApp</a> and <a href="https://github.com/michalwdowik/Cinematly">Cinematly</a></p>
+<p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/Cinematly">Cinematly</a></p>
 <p align="center">⌛ Learning: Next.js, Redux</p>
 
 
