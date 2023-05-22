@@ -30,8 +30,6 @@ After hours I love to develop my beat-making skills. I have been producing music
 <a href="https://twitter.com/michalwdowik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michalwdowik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michalwdowik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michalwdowik" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100001394381072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100001394381072" height="30" width="40" /></a>
-<a href="https://instagram.com/wdowikm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wdowikm" height="30" width="40" /></a>
-<a href="http://discordapp.com/users/1032241524051804190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/1032241524051804190" height="30" width="40" /></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=michalwdowik&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="michalwdowik" /></p>
