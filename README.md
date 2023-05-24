@@ -3,7 +3,7 @@
 <h5 align="center"><i>Warsaw, PL</i></h5>
 
 <p align="center"> 
-In 2021, while maintaining my e-commerce shop and making basic tweaks to Shopify's templates, I encountered <b>HTML</b> for the first time. It sparked the idea of picking up programming. As I was completing my Master's degree, I wanted to learn something extra that would enable me to create an e-commerce shop or app from scratch. My journey began with <b>Swift</b>, but upon discovering that <b>JavaScript</b> aligned more closely with my core interests, I transitioned to web development. After a few months of learning <b>JS/CSS/HTML</b>, I started discovering <b>React</b>. I have successfully completed two <b>React</b> projects. Currently, I am actively seeking a job to develop my skills further and gain experience working in a team. Besides programming, I have experience in social media marketing. I utilized the Facebook Ads Tool to create ad campaigns for my e-commerce shop. After hours I love to develop my beat-making skills. I have been producing music since 2013. Generally, music is my passion. When I travel I always want to acquire vinyl records that capture the essence and vibe of the region or city.
+In 2021, while maintaining my e-commerce shop and making basic tweaks to Shopify's templates, I encountered <b>HTML</b> for the first time. It sparked the idea of picking up programming. As I was completing my Master's degree, I wanted to learn something extra that would enable me to create an e-commerce shop or app from scratch. My journey began with <b>Swift</b>, but upon discovering that <b>JavaScript</b> aligned more closely with my core interests, I transitioned to web development. After a few months of learning <b>JS/CSS/HTML</b>, I started discovering <b>React</b>. I have successfully completed two <b>React</b> projects. Currently, I am actively seeking a job to develop my skills further and gain experience working in a team. Besides programming, I have experience in social media marketing. I utilized the Facebook Ads Tool to create ad campaigns for my e-commerce shop.
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -21,7 +21,7 @@ In 2021, while maintaining my e-commerce shop and making basic tweaks to Shopify
 
 <h3 align="center">Hobbies:</h3>
 <p align="center">
-After hours I love to develop my beat-making skills. I have been producing music since 2013. Generally, music is my passion, when I travel I always want to copy some vinyl that reminds me of the vibe of the region/city.
+After hours I love to develop my beat-making skills. I have been producing music since 2013. Generally, music is my passion. When I travel I always want to acquire vinyl records that capture the essence and vibe of the region or city.
 </p>
 
 <h3 align="center">Connect with me:</h3>
