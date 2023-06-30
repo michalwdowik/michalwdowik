@@ -16,7 +16,7 @@ In 2021, while maintaining my e-commerce shop and making basic tweaks to Shopify
 
 <h3 align="center">Current status:</h3>
 <p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/Cinematly">Cinematly</a></p>
-<p align="center">⌛ Learning: Next.js, Redux</p>
+<p align="center">⌛ Learning: Redux, React Query</p>
 
 
 <h3 align="center">Hobbies:</h3>
