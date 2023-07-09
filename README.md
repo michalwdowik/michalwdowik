@@ -3,16 +3,30 @@
 <h5 align="center"><i>Warsaw, PL</i></h5>
 
 <p align="center"> 
-In 2021, while maintaining my e-commerce shop and making basic tweaks to Shopify's templates, I encountered <b>HTML</b> for the first time. It sparked the idea of picking up programming. As I was completing my Master's degree, I wanted to learn something extra to create an e-commerce shop or app from scratch. My journey began with <b>Swift</b>, but upon discovering that <b>JavaScript</b> aligned more closely with my core interests, I transitioned to web development. After a few months of learning <b>JS/CSS/HTML</b>, I started discovering <b>React</b>. I completed three <b>React</b> projects successfully. I am actively seeking a job to further develop my skills and gain experience working in a team. Besides programming, I have experience in social media marketing. I utilized the Facebook Ads Tool to create ad campaigns for my e-commerce shop.
+In 2021, while maintaining my e-commerce store and making basic tweaks to Shopify's templates, I encountered <b>HTML</b> for the first time. It sparked the idea of picking up programming. As I was completing my Master's degree, I wanted to learn something extra to create an e-commerce shop or app from scratch. My journey began with <b>Swift</b>, but upon discovering that <b>JavaScript</b> aligned more closely with my core interests, I transitioned to web development. After a few months of learning <b>JS/CSS/HTML</b>, I started discovering <b>React</b>. I completed three <b>React</b> projects successfully. I am actively seeking a job to further develop my skills and gain experience working in a team. Besides programming, I have experience in social media marketing. I utilized the Facebook Ads Tool to create ad campaigns for my e-commerce shop.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<h3 align="center">Tech Stack:</h3>
+
+<h5 align="center">Solid:</h5>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
+
+<h5 align="center">Basics/used in projects:</h5>
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" alt="Prettier" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/546px-ESLint_logo.svg.png" alt="eslint" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/> </a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/DzqxbsP/cy-removebg-preview.png" alt="mui" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/BytVS0W/Projekt-bez-nazwy-2-removebg-preview.png" alt="figma" width="40" height="40"/></a>
+</p>
+
+
 
 <h3 align="center">Current status:</h3>
 <p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/Cinematly">Cinematly</a></p>
