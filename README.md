@@ -3,7 +3,7 @@
 <h5 align="center"><i>Warsaw, PL</i></h5>
 
 <p align="center"> 
-In 2021, while maintaining my e-commerce store and making basic tweaks to Shopify's templates, I encountered <b>HTML</b> for the first time. It sparked the idea of picking up programming. As I was completing my Master's degree, I wanted to learn something extra to create an e-commerce store or app from scratch. My journey began with <b>Swift</b>, but upon discovering that <b>JavaScript</b> aligned more closely with my core interests, I transitioned to web development. After a few months of learning <b>JS/CSS/HTML</b>, I started discovering <b>React</b>. I completed three <b>React</b> projects successfully. I am actively seeking a job to further develop my skills and gain experience working in a team. Besides programming, I have experience in social media marketing. I utilized the Facebook Ads Tool to create ad campaigns for my e-commerce shop.
+I started my career by designing my own online store with the help of the Shopify platform. Being the only person responsible for its maintenance, I gained knowledge and experience in the field of website SEO. I also carried out e-mail marketing campaigns using the collected customer database, using tools such as MailChimp. Designing my shop's website and making changes to HTML and CSS files, I had the opportunity to develop UI/UX skills. Driven by the desire to create websites from scratch, I learned HTML, CSS, JavaScript, and the React library. Before I started creating apps, I got to know tools such as ESLint, Prettier, and TypeScript to write clean and readable code, compliant with current standards. At a later stage, I expanded my skills with e2e tests. When creating my first application, I focused on aesthetic and intuitive UI and handling various user interactions. For the second application, Cinematly, I wanted to learn how to use the API and React Router. Over the months, web development has become my greatest passion. I value the culture of knowledge sharing within the developer community. In the future, I aim to actively share knowledge with others. I participate in platforms like Codewars and Twitter, updating my progress and sharing useful links that have helped me understand various technologies. Recently, I have been learning the basics of Backend. Outside of work, I enjoy developing my beat-making skills.
 </p>
 
 <h3 align="center">Tech Stack:</h3>
@@ -30,7 +30,7 @@ In 2021, while maintaining my e-commerce store and making basic tweaks to Shopif
 
 <h3 align="center">Current status:</h3>
 <p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/Cinematly">Cinematly</a></p>
-<p align="center">⌛ Learning: Redux, React Query</p>
+<p align="center">⌛ Learning: Node.js</p>
 
 
 <h3 align="center">Hobbies:</h3>
