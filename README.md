@@ -29,7 +29,7 @@ I started my career by designing my own online store. Designing my shop's websit
 
 
 <h3 align="center">Current status:</h3>
-<p align="center">👨‍💻 Working on: <a href="https://github.com/michalwdowik/Cinematly">Cinematly</a></p>
+
 <p align="center">⌛ Learning: Node.js</p>
 
 
