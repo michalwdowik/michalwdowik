@@ -40,8 +40,7 @@ I started my career by designing my own online store. Designing my shop's websit
 <p align="center">
 After hours I love to develop my beat-making skills. I have been producing music since 2013. Generally, music is my passion. When I travel I always want to acquire vinyl records that capture the essence and vibe of the region or city.
 </p>
-<h3 align="center">Connect with me:</h3>
-<a href="https://michalwdowik.dev" target="_blank" rel="noreferrer"><p align="center">michalwdowik.dev</p></a>
+
 </p>
 <p align="center">
 <a href="https://twitter.com/michalwdowik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michalwdowik" height="30" width="40" /></a>
