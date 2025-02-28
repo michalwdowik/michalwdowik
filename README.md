@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-I am a <b>Regular Frontend Developer</b> at <b>Nearshore Services Poland (NSP)</b>, specializing in <b>Angular, Spartacus, and SAP Commerce</b>. Since joining NSP in <b>February 2025</b>, I have been working on <b>enterprise-level e-commerce solutions</b> directly for SAP. My role focuses on building scalable, high-performance applications that integrate seamlessly with SAP systems. This experience has significantly deepened my expertise in <b>Angular/Spartacus</b> and large-scale commerce platforms.
+I am a <b>Regular Frontend Developer</b> at <b>Nearshore Services Poland (NSP)</b>, specializing in <b>Angular, Spartacus, and SAP Commerce</b>. Since joining NSP in <b>October 2023</b>, I have been working on <b>enterprise-level e-commerce solutions</b> directly for SAP. My role focuses on building scalable, high-performance applications that integrate seamlessly with SAP systems. This experience has significantly deepened my expertise in <b>Angular/Spartacus</b> and large-scale commerce platforms.
 </p>
 
 <p align="center">
@@ -40,12 +40,11 @@ Beyond my work at NSP, I developed a fully functional online store — <a href="
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h4 align="center">Community:</h4>
-
 
 <h4 align="center">Connect with Me</h4>
 
-<p align="center">
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://linkedin.com/in/michalwdowik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
@@ -53,7 +52,7 @@ Beyond my work at NSP, I developed a fully functional online store — <a href="
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile" />
   </a>
 </p>
-  
+
 
 
   
