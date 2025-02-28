@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-I am a <b>Regular Frontend Developer</b> at <b>Nearshore Services Poland (NSP)</b>, specializing in <b>Angular, Spartacus, and SAP Commerce</b>. Since joining NSP in <b>October 2023</b>, I have been working on <b>enterprise-level e-commerce solutions</b> directly for SAP. My role focuses on building scalable, high-performance applications that integrate seamlessly with SAP systems. This experience has significantly deepened my expertise in <b>Angular/Spartacus</b> and large-scale commerce platforms.
+I am a Regular Frontend Developer at <b>Nearshore Services Poland (NSP)</b>, specializing in <b>Angular, Spartacus, and SAP Commerce</b>. Since joining NSP in <b>October 2023</b>, I have been working on enterprise-level e-commerce solutions directly for SAP. This experience has  deepened my expertise in <b>Angular/Spartacus</b> and large-scale commerce platforms.
 </p>
 
 <p align="center">
