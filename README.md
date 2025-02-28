@@ -10,16 +10,20 @@
 I am a Regular Frontend Developer at <b>Nearshore Services Poland (NSP)</b>, specializing in <b>Angular, Spartacus, and SAP Commerce</b>. Since joining NSP in <b>October 2023</b>, I have been working on enterprise-level e-commerce solutions directly for SAP. This experience has  deepened my expertise in <b>Angular/Spartacus</b> and large-scale commerce platforms.
 </p>
 
-<p align="center">
-Beyond my work at NSP, I developed a fully functional online store — <a href="https://www.wydekorujemy.pl/" target="_blank"><b>wydekorujemy.pl</b></a> — using <b>Angular and NgRx</b> for state management. This project enhanced my skills in building modern, component-based e-commerce applications.
-</p>
+<p></p>
+
 
 <h4 align="center">Previous Roles:</h4>
 
 <p align="center">
-  <b>Frontend Developer</b> at <b>Binatec Agency</b><br>
-  <b>Software Development Intern</b> at <b>Lemmy</b> (LP record player project)
+  <ul style="list-style-position: inside; display: inline-block; text-align: left; margin: 0; padding: 0;">
+    <li><b>Developed a fully functional online store — <a href="https://www.wydekorujemy.pl/" target="_blank"><b>wydekorujemy.pl</b></a> — using <b>Angular and NgRx</b> for state management.</b></li>
+    <li><b>Frontend Developer</b> at <b>Binatec Agency</b></li>
+    <li><b>Software Development Intern</b> at <b>Lemmy</b> (LP record player project)</li>
+  </ul>
 </p>
+
+<p></p>
 
 <h4 align="center">Tech Stack:</h4>
 
