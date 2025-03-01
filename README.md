@@ -18,8 +18,8 @@ I am a Regular Frontend Developer at <b>Nearshore Services Poland (NSP)</b>, spe
 <p align="center">
   <ul style="list-style-position: inside; display: inline-block; text-align: left; margin: 0; padding: 0;">
     <li><b>Developed a fully functional online store — <a href="https://www.wydekorujemy.pl/" target="_blank"><b>wydekorujemy.pl</b></a> — using <b>Angular and NgRx</b> for state management.</b></li>
-    <li><b>Frontend Developer</b> at <b>Binatec Agency</b></li>
-    <li><b>Software Development Intern</b> at <b>Lemmy</b> (LP record player project)</li>
+    <li><b>Frontend Developer</b> at <a href="https://www.binatecagency.com/">Binatec Agency</a></li>
+    <li><b>Software Development Intern</b> at LP record player project - <a href="https://www.instagram.com/lemmy_lp/">Lemmy LP</a></li>
   </ul>
 </p>
 
