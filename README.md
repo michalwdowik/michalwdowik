@@ -1,10 +1,5 @@
 <h4 align="center"><i>Warsaw, PL</i></h4>
 
-<p align="center">
-  <a href="https://codewars.com/users/michalwdowik" target="_blank">
-    <img src="https://www.codewars.com/users/michalwdowik/badges/large" alt="michalwdowik Codewars Profile" />
-  </a>
-</p>
 
 <p align="center"> 
 I am a Regular Frontend Developer at <b>Nearshore Services Poland (NSP)</b>, specializing in <b>Angular, Spartacus, and SAP Commerce</b>. Since joining NSP in <b>October 2023</b>, I have been working on enterprise-level e-commerce solutions directly for SAP. This experience has  deepened my expertise in <b>Angular/Spartacus</b> and large-scale commerce platforms.
